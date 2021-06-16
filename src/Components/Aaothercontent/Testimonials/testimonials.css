@@ -1,0 +1,9 @@
+.testimonial_sldr .carousel-caption {
+    position: inherit;
+  
+  }
+
+  .testimonial_sldr img {
+      border-radius: 50%;
+  }
+  

@@ -1,0 +1,54 @@
+.cer1 .pp h3 {
+  color: aqua;
+}
+.cer1 .pp .carousel-indicators li {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+
+.cer1 .pp .carousel-indicators .active {
+  opacity: 1;
+  background: aqua;
+  height: 4px;
+  width: 20px;
+  margin-top: 8px;
+}
+
+.cer1 .pp .carousel-indicators {
+  position: absolute;
+  right: 8px;
+  bottom: 15px;
+  left: inherit;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  padding-left: 0;
+  margin-right: 0%;
+  margin-left: 15%;
+  list-style: none;
+}
+
+.cer1 .pp .carousel-control-next,
+.cer1 .pp .carousel-control-prev {
+  top: inherit;
+  bottom: 5px;
+  right: 10px;
+  background: aqua;
+  width: 50px;
+  height: 30px;
+  display: block;
+  
+}
+
+.cer1 .pp .carousel-control-prev {
+  left: inherit;
+  right: 61px;
+}
+
+
+.cer1  .carousel-control-next-icon, .cer1  .carousel-control-prev-icon {
+
+  height: 31px;
+ 
+}
